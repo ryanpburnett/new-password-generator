@@ -30,5 +30,7 @@ const generate = () => {
     // for generating passowrd from random-words Node package
     
     
-    result.innerHTML = password;
+    let pass = document.createElement('li');
+    pass.innerHTML = password;
+    result.prepend(pass);
 }

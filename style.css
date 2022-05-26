@@ -1,7 +1,8 @@
 body {
     text-align: center;
     padding: 3rem;
-    background-color: azure;
+    color: rgb(176, 255, 255);
+    background-color: rgb(30, 30, 30);
 }
 
 button {
@@ -14,6 +15,10 @@ button {
 p {
     display: inline;
     padding: 5px;
+}
+
+li {
+    list-style-type: none;
 }
 
 #result {
