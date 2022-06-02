@@ -5,6 +5,12 @@ body {
     background-color: rgb(30, 30, 30);
 }
 
+h1 {
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 3rem;
+}
+
 button {
     margin: 2rem;
     padding: 1rem;
